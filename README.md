@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hazel Yim-Hei Chan
 
+Hi! I'm Hazel, a yr2 student at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University.
 <!--
 **Haru0203/Haru0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
